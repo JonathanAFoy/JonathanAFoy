@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently learning Full Stack software development at TechElevator.
+Reach me at foy.jon@gmail.com or 816-665-7576.
+Pronouns: He/Him
