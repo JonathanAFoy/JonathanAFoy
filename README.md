@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning Full Stack software development at TechElevator.
+I recently graduated from a Full Stack software development bootcamp at TechElevator, and am working on projects to improve my skills as a developer while my job search ensues!
 Reach me at foy.jon@gmail.com or 816-665-7576.
 Pronouns: He/Him
